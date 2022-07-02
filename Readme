@@ -1,0 +1,16 @@
+Goals: 
+
+Preparation:        
+    Fork the mainnet ✔️;
+    Get address of landing pool ✔️;
+    Get interface of ERC20 tokens ✔️;
+
+Interacting with LendingPool:
+    Get wETH ✔️;
+    Give Lending pool allowance ✔️;
+    Deposit wETH into the lending pool ✔️;
+    Get the token price from chainlink data feed ✔️;
+    Borrow DAI using wETH ✔️;
+    repay the debt ; 
+    Test all defi functions for V2 version;
+    Fix the repay function;
